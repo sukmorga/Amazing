@@ -1,0 +1,69 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+h1 {
+    font-size: 72px;
+}
+h1 + p {
+    font-size: 30px;
+}
+h2 {
+    font-size: 24px;
+}
+p {
+    font-size: 36px;
+}
+a {
+    font-size: 18px;
+    text-decoration: none;
+}
+.grid {
+    display: grid;
+}
+.grid-item {
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.grid-item-main {
+    background-image: url(../img/bg-main.png);
+}
+.grid-item-red {
+    background-image: url(../img/bg-red.png);
+}
+.grid-item-lgray {
+    background-color: #f3f1ef;
+}
+.grid-item-pic1 {
+    background-image: url(../img/bg-one.png);
+}
+.grid-item-pic2 {
+    background-image: url(../img/bg-two.png);
+}
+.grid-item-pic3 {
+    background-image: url(../img/bg-three.png);
+}
+.grid-item-pic4 {
+    background-image: url(../img/bg-four.png);
+}
+.grid-item-blue-text {
+
+}
+.grid-item-pic5 {
+    background-image: url(../img/bg-five.png);
+}
+.grid-item-bluebg {
+    
+}
+.grid-item-blue {
+    background-color: #3f729b;
+    color: #fff;
+}
+.grid-item-green {
+    background-color: #2ebd59;
+    color: #fff;
+}
+.grid-item-gray {
+    background-color: #282b2f;
+    color: #fff;
+}
